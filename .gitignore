@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+__pycache__/
+venv/
+
+.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
